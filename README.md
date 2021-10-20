@@ -10,6 +10,8 @@ Once printed you can cut and laminate these. Together with
 a fine-tip whiteboard marker you can represent a token
 of anything in the game.
 
+![Print dialog](print-dialog.png)
+
 ### Basic instructions
 
 There are 2 tokens you can print. A plain token which just has
